@@ -21,7 +21,7 @@ module.exports = {
   //default user for NO_AUTHENTICATION PROFILE
 
   defaultUser: {
-    id: 'tjambula@in.ibm.com',
+    id: 'tjambula@',
     _json: {
       firstName: 'Ashok',
       blueGroups: ['ARDE_ALL'],
